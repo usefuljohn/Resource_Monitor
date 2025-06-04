@@ -24,7 +24,7 @@ This project consists of two Python scripts:
 * **Automatic Shutdown**: Gracefully stops the monitoring script if the GUI window is closed.
 
 ### `system_monitor.py` (Backend Monitoring Script)
-* **System Resource Logging**: Logs CPU and Memory usage to `system_monitor.log2`.
+* **System Resource Logging**: Logs CPU and Memory usage to `system_monitor.log`.
 * **Configurable**:
     * `LOG_FILE`: Defines the name of the log file (default: "system_monitor.log").
     * `SAMPLING_INTERVAL_SECONDS`: How often to log data (default: 10 seconds).
