@@ -9,7 +9,7 @@ This project consists of two Python scripts:
 
 ## Features
 
-### `system_monitor_gui.py` (Resource Monitor GUI)
+### `gui.py` (Resource Monitor GUI)
 * **Real-time Stats Display**:
     * Shows current CPU usage percentage with a progress bar.
     * Shows current Memory usage percentage with a progress bar.
